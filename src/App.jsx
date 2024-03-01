@@ -75,7 +75,7 @@ const App = () => {
 
     return (
         <div className="App">
-            <h1>A pirate's life for me</h1>
+            <h1>🦜 A pirate's life for me</h1>
             <p>Yo Ho, Memory game</p>
             <button onClick={shuffleCards}>New Game</button>
         
