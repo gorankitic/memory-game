@@ -4,4 +4,6 @@
 
 📌 Demo: https://pirate-memory-game.vercel.app/
 
+©️ 2024 Goran Kitic
+
 <img src="public/screenshot.png" />
